@@ -1,0 +1,20 @@
+{
+    "weeklyPointCriteria" : [
+        {
+            "watching" : 0.5,
+            "discussions" : null,
+            "score" : null
+        },
+        {
+            "watching" : 0.75,
+            "discussions" : 75,
+            "score" : null
+        },
+        {
+            "watching" : 0.5,
+            "discussions" : null,
+            "score" : 17500
+        }
+    ] 
+
+}
